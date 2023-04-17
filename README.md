@@ -1,2 +1,2 @@
 # QR-ver-3.0
-Jedyny taki najlepszy
+Jedyny taki najlepszy. W pełni działa, wersja ostateczna
